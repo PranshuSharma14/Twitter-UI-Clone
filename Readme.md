@@ -7,6 +7,8 @@ This project is a **responsive clone of Twitter's web interface** created using 
 
 ---
 
+⚠️ Note: The layout is currently not responsive. Mobile and tablet responsiveness is planned for future updates.
+
 ## ✨ Features
 
 - Responsive 3-column layout
